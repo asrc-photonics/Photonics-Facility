@@ -1,1 +1,47 @@
-site_name: My Docs
+site_name: ASRC Photonics Facility
+site_description: Welcome to the ASRC Photonics Laboratory Shared Facility website. Here you’ll find detailed information about our available equipment, facility policies, and events.
+site_url: https://asrc-photonics.github.io/Photonics-Facility
+repo_name: Photonics-Facility
+
+# Standard docs directory
+docs_dir: docs
+
+
+theme: 
+  name: material
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: orange
+    - scheme: slate
+      primary: deep purple
+      accent: lime
+  features:
+    - navigation.tabs
+    - navigation.expand
+    - search.highlight
+    - search.suggest
+    - content.code.copy
+  
+nav:
+  - Home: index.md
+  - Equipment: equipment.md
+  - Howto: 
+    - Become a user: become_a_user.md
+  #  - Usage policies: usage_policies.md
+  #  - Safety policies: safety_policies.md
+  #  - Equipment usage rate: rates.md
+  - Internships: 
+      - Overview: internships.md
+      - Anna Luo: Interns/AnnaLuo.md
+  - Events: events.md
+  - Contact: contact.md
+
+ 
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/asrc-photonics
+    # - icon: fontawesome/brands/linkedin
+    #   link: https://www.linkedin.com/in/worldlycode/
+

@@ -1,17 +1,13 @@
-# Welcome to MkDocs
+# Welcome to ASRC Photonics Shared Facility
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+The Photonics Shared Facility at the CUNY Advanced Science Research Center provides researchers with access to state-of-the-art optical instrumentation, expert training, and collaborative opportunities.
 
-## Commands
+Here you’ll find:  
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+🔬 **Equipment** – access to advanced optical tools  
+📘 **How-to guides** – becoming a user & lab policies  
+🎓 **Internships** – opportunities for students to learn and grow  
+📅 **Events** – workshops, talks, and community activities  
+📬 **Contact** – connect with us anytime  
 
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+🚀 Start by exploring our [Howto section](become_a_user.md) or checking out the [Equipment](equipment.md).
