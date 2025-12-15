@@ -2,42 +2,78 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://asrc-photonics.github.io/Photonics-Facility/</loc>
-         <lastmod>2025-11-03</lastmod>
+         <lastmod>2025-12-15</lastmod>
     </url>
     <url>
          <loc>https://asrc-photonics.github.io/Photonics-Facility/become_a_user/</loc>
-         <lastmod>2025-11-03</lastmod>
+         <lastmod>2025-12-15</lastmod>
     </url>
     <url>
          <loc>https://asrc-photonics.github.io/Photonics-Facility/contact/</loc>
-         <lastmod>2025-11-03</lastmod>
+         <lastmod>2025-12-15</lastmod>
     </url>
     <url>
          <loc>https://asrc-photonics.github.io/Photonics-Facility/equipment/</loc>
-         <lastmod>2025-11-03</lastmod>
+         <lastmod>2025-12-15</lastmod>
     </url>
     <url>
          <loc>https://asrc-photonics.github.io/Photonics-Facility/events/</loc>
-         <lastmod>2025-11-03</lastmod>
+         <lastmod>2025-12-15</lastmod>
     </url>
     <url>
          <loc>https://asrc-photonics.github.io/Photonics-Facility/internships/</loc>
-         <lastmod>2025-11-03</lastmod>
+         <lastmod>2025-12-15</lastmod>
     </url>
     <url>
          <loc>https://asrc-photonics.github.io/Photonics-Facility/rates/</loc>
-         <lastmod>2025-11-03</lastmod>
+         <lastmod>2025-12-15</lastmod>
     </url>
     <url>
          <loc>https://asrc-photonics.github.io/Photonics-Facility/safety_policies/</loc>
-         <lastmod>2025-11-03</lastmod>
+         <lastmod>2025-12-15</lastmod>
     </url>
     <url>
          <loc>https://asrc-photonics.github.io/Photonics-Facility/usage_policies/</loc>
-         <lastmod>2025-11-03</lastmod>
+         <lastmod>2025-12-15</lastmod>
     </url>
     <url>
          <loc>https://asrc-photonics.github.io/Photonics-Facility/Interns/AnnaLuo/</loc>
-         <lastmod>2025-11-03</lastmod>
+         <lastmod>2025-12-15</lastmod>
+    </url>
+    <url>
+         <loc>https://asrc-photonics.github.io/Photonics-Facility/python/classes/</loc>
+         <lastmod>2025-12-15</lastmod>
+    </url>
+    <url>
+         <loc>https://asrc-photonics.github.io/Photonics-Facility/python/devices/</loc>
+         <lastmod>2025-12-15</lastmod>
+    </url>
+    <url>
+         <loc>https://asrc-photonics.github.io/Photonics-Facility/python/guideline/</loc>
+         <lastmod>2025-12-15</lastmod>
+    </url>
+    <url>
+         <loc>https://asrc-photonics.github.io/Photonics-Facility/python/intro/</loc>
+         <lastmod>2025-12-15</lastmod>
+    </url>
+    <url>
+         <loc>https://asrc-photonics.github.io/Photonics-Facility/python/knife_edge/</loc>
+         <lastmod>2025-12-15</lastmod>
+    </url>
+    <url>
+         <loc>https://asrc-photonics.github.io/Photonics-Facility/python/linear_stage/</loc>
+         <lastmod>2025-12-15</lastmod>
+    </url>
+    <url>
+         <loc>https://asrc-photonics.github.io/Photonics-Facility/python/overview/</loc>
+         <lastmod>2025-12-15</lastmod>
+    </url>
+    <url>
+         <loc>https://asrc-photonics.github.io/Photonics-Facility/python/powermeter/</loc>
+         <lastmod>2025-12-15</lastmod>
+    </url>
+    <url>
+         <loc>https://asrc-photonics.github.io/Photonics-Facility/python/save_plot_data/</loc>
+         <lastmod>2025-12-15</lastmod>
     </url>
 </urlset>
