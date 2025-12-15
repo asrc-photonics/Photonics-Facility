@@ -1,0 +1,3 @@
+Course introduction
+
+Photonics experiments increasingly rely on automation and data analysis. This course introduces Python as a practical tool for modern optical labs — helping you control instruments, collect measurements efficiently, and analyze results reproducibly. Alongside programming fundamentals, it teaches the philosophy of coding in the lab: how optical components and equipment are represented in software, how commands map to physical actions, and how to build modular, readable code that turns complex setups into repeatable workflows.

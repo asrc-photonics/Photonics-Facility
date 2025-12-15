@@ -22,7 +22,51 @@ theme:
     - search.highlight
     - search.suggest
     - content.code.copy
-  
+
+markdown_extensions:
+  - pymdownx.highlight
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.snippets:
+      base_path: docs
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - pymdownx.tabbed
+  - pymdownx.tasklist
+  - pymdownx.tasklist
+  - pymdownx.details
+  - admonition
+  - toc:
+      permalink: true
+      # baselevel: 2
+      # separator: "_"
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - md_in_html
+  - footnotes
+  - pymdownx.blocks.caption
+
+
+
+plugins:
+  - search
+  - mkdocstrings:
+      handlers:
+        python:
+          paths: [.]
+          options:
+            docstring_style: google
+            show_source: true
+            show_root_heading: true
+
 nav:
   - Home: index.md
   - Equipment: equipment.md
@@ -35,6 +79,16 @@ nav:
       - Overview: internships.md
       - Anna Luo: Interns/AnnaLuo.md
   - Events: events.md
+  - Python for Photonics: 
+      - Overview: python/overview.md
+      - Installation Guideline: python/guideline.md
+      - Introduction to python: python/intro.md
+      - Overview of classes: python/classes.md
+      - Overview of devices: python/devices.md
+      - Linear Stage: python/linear_stage.md
+      - How to save and plot data: python/save_plot_data.md
+      - Powermeter: python/powermeter.md
+      - Knife-edge experiment: python/knife_edge.md
   - Contact: contact.md
 
  
